@@ -28,3 +28,6 @@
 
 # Weather.com - supply chain
 @@||api.weather.com^$important
+
+# Aqara - Smart Home
+cdn.aqara.com
