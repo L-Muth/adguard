@@ -1,0 +1,30 @@
+## blocklist
+## Comments for entries in style: # Service - Comment
+
+# Smart TV - tracking
+||zeasn.tv^
+||nettvservices.com^
+
+# Nvidia - tracking
+||events.gfe.nvidia.com^
+
+# Twitter - tracking
+||syndication.twitter.com^
+
+# Apple - tracking
+||weather-analytics-events.news.apple-dns.net^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
+||feedbackws.fe.apple-dns.net^
+
+# Pr0gram - tracking
+||app-metrics.pr0gramm.com^$important
+
+# Meta Rayban - tracking
+||graph.facebook-hardware.com^$important
+||ar.graph.meta.com^$important
+||*-dnsotls-ds.metric.gstatic.com^$important
+
+# Govee - tracking
+||ntp.aliyun.com^$important
+||graph.facebook.com^$important
