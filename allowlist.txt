@@ -30,4 +30,4 @@
 @@||api.weather.com^$important
 
 # Aqara - Smart Home
-cdn.aqara.com
+@@||cdn.aqara.com^$important
