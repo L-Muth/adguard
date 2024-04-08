@@ -1,0 +1,30 @@
+## allowlist
+## Comments for entries in style: # Service - Comment
+
+# WhatsApp - genaral usage
+@@||whatsapp.net^
+@@||whatsapp.com^
+
+# Samsung - Systemupdate
+@@||ospserver.net^$important
+
+# Uceprotect - Blocklist download
+@@||wget-mirrors.uceprotect.net^
+
+# DHL - general usage
+@@||login.dhl.de^
+
+# Giphy - Memes
+@@||giphy.com^
+
+# Apple - system updates
+@@||xp.apple.com^$important
+
+# Google - div. services
+@@||content.googleapis.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.gstatic.com^$important
+@@||userlocation.googleapis.com^$important
+
+# Weather.com - supply chain
+@@||api.weather.com^$important
