@@ -1,2 +1,2 @@
 # adguard
-This repo contains a custom black and whitelist in adblock style.
+This repo contains a custom blocklist and allowlist in adblock style.
