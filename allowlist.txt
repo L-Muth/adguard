@@ -6,7 +6,7 @@
 @@||whatsapp.com^
 
 # Samsung - Systemupdate
-@@||ospserver.net^$important
+@@||ospserver.net^
 
 # Uceprotect - Blocklist download
 @@||wget-mirrors.uceprotect.net^
@@ -18,16 +18,26 @@
 @@||giphy.com^
 
 # Apple - system updates
-@@||xp.apple.com^$important
+@@||xp.apple.com^
 
 # Google - div. services
-@@||content.googleapis.com^$important
-@@||fonts.gstatic.com^$important
-@@||www.gstatic.com^$important
-@@||userlocation.googleapis.com^$important
+@@||content.googleapis.com^
+@@||fonts.gstatic.com^
+@@||www.gstatic.com^
+@@||userlocation.googleapis.com^
 
 # Weather.com - supply chain
-@@||api.weather.com^$important
+@@||api.weather.com^
 
 # Aqara - Smart Home
-@@||cdn.aqara.com^$important
+@@||cdn.aqara.com^
+
+# Aliexpress - General
+@@||aliexpress.com^
+@@||alicdn.com^
+
+# Linkedin - General
+@@||static.licdn.com^
+
+# Eclecticiq - Blog
+@@||blog.eclecticiq.com^
