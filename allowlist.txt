@@ -49,3 +49,15 @@
 # Mydealz - Links
 @@||mydealz.digidip.net^
 @@||redir.digidip.net^
+
+# GOG - General
+@@||gog.com^
+
+# Steam - General
+@@||steamstore-a.akamaihd.net^
+@@||steamcommunity-a.akamaihd.net^
+@@||avatars.steamstatic.com^
+
+# Helldrivers 2 - Game
+@@||gameguard.thehelldiversgame.com^
+@@||974a9.playfabapi.com^
