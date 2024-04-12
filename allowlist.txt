@@ -25,6 +25,10 @@
 @@||fonts.gstatic.com^
 @@||www.gstatic.com^
 @@||userlocation.googleapis.com^
+# Google - Wallet
+@@||androidpay-users-pa.googleapis.com^
+@@||pay-users-pa.googleapis.com^
+
 
 # Weather.com - supply chain
 @@||api.weather.com^
@@ -41,3 +45,7 @@
 
 # Eclecticiq - Blog
 @@||blog.eclecticiq.com^
+
+# Mydealz - Links
+@@||mydealz.digidip.net^
+@@||redir.digidip.net^
