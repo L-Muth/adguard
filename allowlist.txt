@@ -25,6 +25,8 @@
 @@||fonts.gstatic.com^
 @@||www.gstatic.com^
 @@||userlocation.googleapis.com^
+@@||ssl.gstatic.com^
+@@||www.googletagmanager.com^
 # Google - Wallet
 @@||androidpay-users-pa.googleapis.com^
 @@||pay-users-pa.googleapis.com^
@@ -61,3 +63,6 @@
 # Helldrivers 2 - Game
 @@||gameguard.thehelldiversgame.com^
 @@||974a9.playfabapi.com^
+
+# Microsoft - Windows Appstore
+@@||apps.microsoft.com^
