@@ -32,6 +32,8 @@
 # Polyfill.io supply chain attack
 ||cdn.polyfill.io^$important
 ||polyfill.io^$important
+||cdn.polyfill.com^$important
+||polyfill.com^$important
 ||bootcdn.net^$important
 ||bootcss.com^$important
 ||staticfile.net^$important
