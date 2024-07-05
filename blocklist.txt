@@ -28,3 +28,15 @@
 # Govee - tracking
 ||ntp.aliyun.com^$important
 ||graph.facebook.com^$important
+
+# Polyfill.io supply chain attack
+||cdn.polyfill.io^$important
+||polyfill.io^$important
+||bootcdn.net^$important
+||bootcss.com^$important
+||staticfile.net^$important
+||staticfile.org^$important
+||unionadjs.com^$important
+||xhsbpza.com^$important
+||union.macoms.la^$important
+||newcrbpc.com^$important
