@@ -66,3 +66,6 @@
 
 # Microsoft - Windows Appstore
 @@||apps.microsoft.com^
+
+# Scalable Capital
+@@||scalable.capital^
