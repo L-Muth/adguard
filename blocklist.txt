@@ -42,3 +42,10 @@
 ||xhsbpza.com^$important
 ||union.macoms.la^$important
 ||newcrbpc.com^$important
+
+# FireTV ads
+||unagi-eu.amazon.com^$important
+||ktpx-eu.amazon.com^$important
+
+# FireTV Updates
+||softwareupdates.amazon.com^$important
