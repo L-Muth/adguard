@@ -49,3 +49,8 @@
 
 # FireTV Updates
 ||softwareupdates.amazon.com^$important
+||arcus-uswest.amazon.com^$important
+||prod.ota-cloudfront.net^$important
+||d1s31zyz7dcc2d.cloudfront.net^$important
+||d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net^$important
+||arcus-uswest.amazon.com^$important
