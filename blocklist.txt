@@ -53,4 +53,3 @@
 ||prod.ota-cloudfront.net^$important
 ||d1s31zyz7dcc2d.cloudfront.net^$important
 ||d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net^$important
-||arcus-uswest.amazon.com^$important
