@@ -44,7 +44,7 @@
 ||newcrbpc.com^$important
 
 # FireTV ads
-||unagi-eu.amazon.com^$important
+# ||unagi-eu.amazon.com^$important
 ||ktpx-eu.amazon.com^$important
 
 # FireTV Updates
