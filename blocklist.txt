@@ -45,7 +45,7 @@
 
 # FireTV ads
 # ||unagi-eu.amazon.com^$important
-||ktpx-eu.amazon.com^$important
+# ||ktpx-eu.amazon.com^$important
 
 # FireTV Updates
 ||softwareupdates.amazon.com^$important
