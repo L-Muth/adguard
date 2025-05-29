@@ -2,8 +2,8 @@
 ## Comments for entries in style: # Service - Comment
 
 # WhatsApp - genaral usage
-@@||whatsapp.net^
-@@||whatsapp.com^
+#@@||whatsapp.net^
+#@@||whatsapp.com^
 
 # Samsung - Systemupdate
 @@||ospserver.net^
